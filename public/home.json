@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Driving Innovation\nBeyond Limits",
+    "subtitle": "Experience the future of CYLT EMobility-Powerhouse with cutting-edge technology and timeless design",
+    "background_video": "184734-873923034_small.mp4"
+  },
+  "features": [
+    {"icon":"zap","title":"Electric Innovation","description":"Leading the charge in sustainable luxury mobility"},
+    {"icon":"shield","title":"Safety First","description":"Advanced safety systems protecting what matters most"},
+    {"icon":"award","title":"Award Winning","description":"Recognized globally for design and performance excellence"}
+  ],
+  "featured_vehicles": [
+    {"id":1,"name":"LuxeDrive EV-X","category":"Electric SUV","price":"From $89,990","image":"/src/assets/suv-electric1.jpg"},
+    {"id":2,"name":"SportMax GT","category":"Performance Sedan","price":"From $125,000","image":"/src/assets/sedan-red1.jpg"},
+    {"id":3,"name":"LuxeDrive E7","category":"Luxury Sedan","price":"From $109,000","image":"/src/assets/hero-car11.jpg"},
+    {"id":4,"name":"Urban X","category":"Compact Electric","price":"From $59,000","image":"/src/assets/suv-electric1.jpg"}
+  ],
+  "video_showcase": [
+    {"id": "vs-1","title":"Electric Future","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+    {"id": "vs-2","title":"Performance Unleashed","url":"https://cdn.pixabay.com/video/2022/09/09/131269-749073437_large.mp4"},
+    {"id": "vs-3","title":"Crafted to Perfection","url":"149878-797491481_small.mp4"}
+  ],
+  "technology": {
+    "background_video": "28544-370332703_small.mp4",
+    "right_video": "28544-370332703_small.mp4",
+    "bullets": [
+      { "title": "AI-Powered Assistance", "desc": "Intelligent driving aids that predict and protect" },
+      { "title": "Connected Experience", "desc": "Seamless integration with your digital life" },
+      { "title": "Autonomous Capabilities", "desc": "Advanced self-driving features for ultimate comfort" }
+    ]
+  },
+  "manufacturing": {
+    "right_video": "106722-673786473_small.mp4",
+    "paragraph": "Every vehicle is a masterpiece, hand-assembled by skilled artisans using the finest materials and cutting-edge manufacturing techniques. Our state-of-the-art facilities combine traditional craftsmanship with revolutionary technology, ensuring each vehicle meets our exacting standards of excellence."
+  },
+  "lifestyle": {
+    "background_video": "133703-757782432_small.mp4",
+    "stats": [
+      {"label":"Happy Owners","value":"50K+"},
+      {"label":"Global Locations","value":"150+"},
+      {"label":"Awards Won","value":"25+"}
+    ]
+  }
+}
