@@ -39,6 +39,7 @@ export type Technology = {
 };
 
 export type Manufacturing = {
+  background_video: string;
   right_video: string;
   paragraph: string;
   description: string;

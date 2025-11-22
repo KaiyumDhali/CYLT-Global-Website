@@ -33,7 +33,7 @@ export default function TechnologySection({
           </div>
           <div>
             <h2 className="text-4xl md:text-5xl font-heading font-bold mb-6">
-              Advanced <span className="bg-gradient-premium bg-clip-text text-transparent">Technology</span>
+              Charging infrastructure setup<span className="bg-gradient-premium bg-clip-text text-transparent">(DC, AC, PV, Battery swap station)</span>
             </h2>
             <p className="text-xl text-muted-foreground mb-6">
               {description}
